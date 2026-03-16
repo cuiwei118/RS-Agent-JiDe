@@ -105,8 +105,8 @@ RS-Agent: 🛰️ Change detection complete! Saved to D:/result.tif, change rati
 **武汉大学测绘遥感信息工程国家重点实验室**
 **State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University**
 
-孙开敏教授团队 / Prof. Sun Kaimin's Research Group
 
+孙开敏教授团队 / Prof. Sun Kaimin's Research Group
 📧 [cuiwei@whu.edu.cn](mailto:cuiwei@whu.edu.cn)
 
 ---
