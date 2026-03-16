@@ -10,7 +10,7 @@
 **让遥感数据处理像对话一样简单**
 **Making Remote Sensing as Simple as a Conversation**
 <br>
-Wei Cui <sup>1</sup>, Tao He <sup>1</sup>, Ruosong Long<sup>2</sup>, Yu Duan<sup>1</sup>, Ziang Wang<sup>1</sup>, Fuyu Li<sup>1</sup>, Kaimin Sun<sup>1</sup>
+[Wei Cui<sup>1</sup>](https://github.com/cuiwei118), [Tao He<sup>1</sup>](https://github.com/ttaohe), [Ruosong Long<sup>2</sup>](https://github.com/RobertLoong), [Yu Duan<sup>1</sup>](https://github.com/featherrrr), Ziang Wang<sup>1</sup>, [Fuyu Li<sup>1</sup>](https://github.com/FoxYuLee), Kaimin Sun<sup>1</sup>
 
 <sup>1</sup> State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University
 
