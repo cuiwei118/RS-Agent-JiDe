@@ -9,7 +9,10 @@
 
 **让遥感数据处理像对话一样简单**
 **Making Remote Sensing as Simple as a Conversation**
-
+<br>
+wei cui <sup>1</sup>, Tao he <sup>1</sup>, Yu Duan <sup>1</sup>,   孙开敏<sup>†</sup>
+<sup>1</sup> State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University
+<sup>2</sup> computer , Wuhan University
 <br>
 
 ![Version](https://img.shields.io/badge/version-0.1.0--preview-blue)
@@ -92,9 +95,9 @@ RS-Agent: 🛰️ Change detection complete! Saved to D:/result.tif, change rati
 - [x] 影像在线预览 / Online image preview
 - [x] VL 模型视觉理解 / Visual language model support
 - [x] 智能流程规划 / Intelligent workflow planning
-- [ ] 对话历史持久化 / Conversation history persistence
-- [ ] Docker 一键部署 / Docker deployment
-- [ ] Web 端独立前端 / Standalone web frontend
+- [x] 对话历史持久化 / Conversation history persistence
+- [x] Docker 一键部署 / Docker deployment
+- [x] Web 端独立前端 / Standalone web frontend
 - [ ] 更多遥感工具 / More RS tools（目标检测、语义分割等）
 - [ ] 多用户支持 / Multi-user support
 
