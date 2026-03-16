@@ -10,9 +10,11 @@
 **让遥感数据处理像对话一样简单**
 **Making Remote Sensing as Simple as a Conversation**
 <br>
-wei cui <sup>1</sup>, Tao he <sup>1</sup>, Yu Duan <sup>1</sup>,   孙开敏<sup>†</sup>
+Wei Cui <sup>1</sup>, Tao He <sup>1</sup>, Ruosong Long<sup>2</sup>, Yu Duan<sup>1</sup>, Ziang Wang<sup>1</sup>, Fuyu Li<sup>1</sup>, Kaimin Sun<sup>1</sup>
+
 <sup>1</sup> State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University
-<sup>2</sup> computer , Wuhan University
+
+<sup>2</sup> School of Computer Science , Wuhan University
 <br>
 
 ![Version](https://img.shields.io/badge/version-0.1.0--preview-blue)
@@ -37,13 +39,7 @@ wei cui <sup>1</sup>, Tao he <sup>1</sup>, Yu Duan <sup>1</sup>,   孙开敏<sup
 
 **RS-Agent** is an AI agent designed for the remote sensing domain. It enables users to complete remote sensing image processing tasks through natural language conversation — no complex commands needed, just tell it what you want.
 
-```
-用户：对 D:/2020.tif 和 D:/2025.tif 进行变化检测，结果保存到 D:/result.tif
-RS-Agent：🛰️ 变化检测完成！结果已保存至 D:/result.tif，变化比例 3.2%
-
-User: Perform change detection on D:/2020.tif and D:/2025.tif, save to D:/result.tif
-RS-Agent: 🛰️ Change detection complete! Saved to D:/result.tif, change ratio: 3.2%
-```
+![JIDE](1.png)
 
 ---
 
@@ -84,7 +80,7 @@ RS-Agent: 🛰️ Change detection complete! Saved to D:/result.tif, change rati
 
 ## 📸 界面预览 / Screenshots
 
-> 截图即将更新 / Screenshots coming soon...
+> 截图即将更新 / More Screenshots coming soon...
 
 ---
 
@@ -106,11 +102,15 @@ RS-Agent: 🛰️ Change detection complete! Saved to D:/result.tif, change rati
 ## 👥 联系我们 / Contact
 
 **武汉大学测绘遥感信息工程国家重点实验室**
+
 **State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University**
 
 
 孙开敏教授团队 / Prof. Sun Kaimin's Research Group
+
 📧 [cuiwei@whu.edu.cn](mailto:cuiwei@whu.edu.cn)
+
+📧 [sunkm@whu.edu.cn](mailto:sunkm@whu.edu.cn)
 
 ---
 
